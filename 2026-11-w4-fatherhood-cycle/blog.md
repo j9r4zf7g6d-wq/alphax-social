@@ -3,8 +3,8 @@
 **Slug:** break-the-cycle-of-fatherlessness
 **Excerpt:** Some of us grew up with an empty chair at the table. Here is how a hard start becomes a different ending for the next generation, one small, steady choice at a time.
 **Book tie-in:** The Prisoner's Guide: Parenthood (Fathers) (alphaxlife.com/books/)
-**Publish:** Sunday, Nov 22, 2026
-**Status:** DRAFT written by the Friday run. If you already have your own Sunday draft, publish yours and ignore this one.
+**Publish:** NOT SCHEDULED. Taken off Sunday Nov 22 on Cory's word (Nov 20); kept for a later week.
+**Status:** SAVED FOR LATER. The Thanksgiving post (2026-11-w4-thanksgiving/blog.md) takes Sunday Nov 22. This draft opens with the Thanksgiving week, so that line needs a light edit before it runs.
 
 ---
 
